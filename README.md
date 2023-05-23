@@ -1,1 +1,1 @@
-# SoftUni_Java_Basics
+# SoftUni_Java
